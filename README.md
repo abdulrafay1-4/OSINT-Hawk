@@ -49,7 +49,7 @@ A comprehensive Open Source Intelligence (OSINT) platform for cybersecurity prof
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/osint-hawk.git
+   git clone https://github.com/abdulrafay1-4/osint-hawk.git
    cd osint-hawk
    ```
 
